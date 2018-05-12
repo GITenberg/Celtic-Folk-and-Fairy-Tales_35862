@@ -1,0 +1,49 @@
+_repo: Celtic-Folk-and-Fairy-Tales_35862
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Batten, John Dickson
+    aliases:
+    - Batten, John D.
+    - Batten, J. D. (John Dickson)
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '6327'
+    url: http://www.gutenberg.org/2009/agents/6327
+    wikipedia: http://en.wikipedia.org/wiki/John_Dickson_Batten
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Jacobs, Joseph
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '2470'
+    url: http://www.gutenberg.org/2009/agents/2470
+description: ''
+gutenberg_issued: '2011-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Great Britain'
+- !lcsh 'Tales -- Great Britain'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Folklore -- Great Britain'
+- !lcsh 'Celts -- Folklore'
+tableOfContents: Connla and the fairy maiden -- Guleesh -- The field of Boliauns --
+  The horned women -- Conall Yellowclaw -- Hudden and Dudden and Donald O'Neary --
+  The shepherd of Myddvai -- The sprightly tailor -- The story of Deirdre -- Munachar
+  and Manachar -- Gold-tree and silver-tree -- King O'Toole and his goose -- The wooing
+  of Olwen -- Jack and his comrades -- The Shee an Gannon and the Gruagach Gaire --
+  The story-teller at fault -- The sea-maiden -- A legend of Knockmany -- Fair, brown,
+  and trembling -- Jack and his master -- Beth Gellert -- The tale of Ivan -- Andrew
+  Coffey -- The battle of the birds -- Brewery of eggshells -- The lad with the goat-skin.
+title: Celtic Folk and Fairy Tales
+url: http://www.gutenberg.org/ebooks/35862
